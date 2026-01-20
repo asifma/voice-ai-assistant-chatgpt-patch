@@ -1,7 +1,7 @@
 {
   "alpha": {
-    "speechButton": "button[aria-label=\"Start voice mode\"]",
-    "speechButtonAlt": "button[aria-label=\"Dictate button\"]",
+    "speechButton": "button[aria-label=\"Start voice mode\"].composer-submit-button-color",
+    "speechButtonAlt": "button[aria-label=\"Start voice mode\"]",
     "speechClose": "button[aria-label=\"End voice mode\"]",
     "speechCloseAlt": "div.lk-room-container button[aria-label=\"Turn off microphone\"]"
   }
