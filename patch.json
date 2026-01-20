@@ -2,7 +2,7 @@
   "alpha": {
     "speechButton": "button[aria-label=\"Start voice mode\"]",
     "speechButtonAlt": "button[aria-label=\"Dictate button\"]",
-    "speechClose": "div.lk-room-container span[data-state]:last-child button:not([disabled]):has(svg.icon-xl.text-token-main-surface-primary-inverse)",
-    "speechCloseAlt": null
+    "speechClose": "button[aria-label=\"End voice mode\"]",
+    "speechCloseAlt": "div.lk-room-container button[aria-label=\"Turn off microphone\"]"
   }
 }
